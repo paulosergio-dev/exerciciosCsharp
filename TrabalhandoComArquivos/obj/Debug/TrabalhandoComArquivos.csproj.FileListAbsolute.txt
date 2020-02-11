@@ -1,0 +1,12 @@
+C:\Users\alexandre.filho\Documents\Visual Studio 2015\Projects\Controle\TrabalhandoComArquivos\bin\Debug\TrabalhandoComArquivos.exe.config
+C:\Users\alexandre.filho\Documents\Visual Studio 2015\Projects\Controle\TrabalhandoComArquivos\bin\Debug\TrabalhandoComArquivos.exe
+C:\Users\alexandre.filho\Documents\Visual Studio 2015\Projects\Controle\TrabalhandoComArquivos\bin\Debug\TrabalhandoComArquivos.pdb
+C:\Users\alexandre.filho\Documents\Visual Studio 2015\Projects\Controle\TrabalhandoComArquivos\obj\Debug\TrabalhandoComArquivos.csprojResolveAssemblyReference.cache
+C:\Users\alexandre.filho\Documents\Visual Studio 2015\Projects\Controle\TrabalhandoComArquivos\obj\Debug\TrabalhandoComArquivos.exe
+C:\Users\alexandre.filho\Documents\Visual Studio 2015\Projects\Controle\TrabalhandoComArquivos\obj\Debug\TrabalhandoComArquivos.pdb
+C:\Users\paulo.santos\Desktop\TrabalhandoComArquivos\bin\Debug\TrabalhandoComArquivos.exe.config
+C:\Users\paulo.santos\Desktop\TrabalhandoComArquivos\obj\Debug\TrabalhandoComArquivos.exe
+C:\Users\paulo.santos\Desktop\TrabalhandoComArquivos\obj\Debug\TrabalhandoComArquivos.pdb
+C:\Users\paulo.santos\Desktop\TrabalhandoComArquivos\bin\Debug\TrabalhandoComArquivos.exe
+C:\Users\paulo.santos\Desktop\TrabalhandoComArquivos\bin\Debug\TrabalhandoComArquivos.pdb
+C:\Users\paulo.santos\Desktop\TrabalhandoComArquivos\obj\Debug\TrabalhandoComArquivos.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\enumeracao\enumeracao\bin\Debug\enumeracao.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\enumeracao\enumeracao\obj\Debug\enumeracao.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\enumeracao\enumeracao\bin\Debug\enumeracao.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\enumeracao\enumeracao\bin\Debug\enumeracao.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\enumeracao\enumeracao\obj\Debug\enumeracao.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\enumeracao\enumeracao\obj\Debug\enumeracao.pdb

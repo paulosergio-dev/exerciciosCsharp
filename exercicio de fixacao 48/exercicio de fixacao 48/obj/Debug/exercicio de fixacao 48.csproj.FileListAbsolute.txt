@@ -1,0 +1,5 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicio de fixacao 48\exercicio de fixacao 48\bin\Debug\exercicio de fixacao 48.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicio de fixacao 48\exercicio de fixacao 48\bin\Debug\exercicio de fixacao 48.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicio de fixacao 48\exercicio de fixacao 48\bin\Debug\exercicio de fixacao 48.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicio de fixacao 48\exercicio de fixacao 48\obj\Debug\exercicio de fixacao 48.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicio de fixacao 48\exercicio de fixacao 48\obj\Debug\exercicio de fixacao 48.pdb

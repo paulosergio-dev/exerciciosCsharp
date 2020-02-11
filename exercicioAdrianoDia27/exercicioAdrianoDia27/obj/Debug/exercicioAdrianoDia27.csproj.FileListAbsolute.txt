@@ -1,0 +1,7 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioAdrianoDia27\exercicioAdrianoDia27\bin\Debug\exercicioAdrianoDia27.exe.config
+C:\Users\paulo.santos\Desktop\exercicioAdrianoDia27\exercicioAdrianoDia27\bin\Debug\exercicioAdrianoDia27.exe.config
+C:\Users\paulo.santos\Desktop\exercicioAdrianoDia27\exercicioAdrianoDia27\obj\Debug\exercicioAdrianoDia27.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\Desktop\exercicioAdrianoDia27\exercicioAdrianoDia27\bin\Debug\exercicioAdrianoDia27.exe
+C:\Users\paulo.santos\Desktop\exercicioAdrianoDia27\exercicioAdrianoDia27\bin\Debug\exercicioAdrianoDia27.pdb
+C:\Users\paulo.santos\Desktop\exercicioAdrianoDia27\exercicioAdrianoDia27\obj\Debug\exercicioAdrianoDia27.exe
+C:\Users\paulo.santos\Desktop\exercicioAdrianoDia27\exercicioAdrianoDia27\obj\Debug\exercicioAdrianoDia27.pdb

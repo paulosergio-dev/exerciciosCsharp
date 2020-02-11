@@ -1,0 +1,6 @@
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\OrientadoObjeto\bin\Debug\OrientadoObjeto.exe.config
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\OrientadoObjeto\bin\Debug\OrientadoObjeto.exe
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\OrientadoObjeto\bin\Debug\OrientadoObjeto.pdb
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\OrientadoObjeto\obj\Debug\OrientadoObjeto.csprojResolveAssemblyReference.cache
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\OrientadoObjeto\obj\Debug\OrientadoObjeto.exe
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\OrientadoObjeto\obj\Debug\OrientadoObjeto.pdb

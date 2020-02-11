@@ -1,0 +1,6 @@
+C:\Users\paulo.santos\Desktop\Dolar\Dolar\bin\Debug\Dolar.exe.config
+C:\Users\paulo.santos\Desktop\Dolar\Dolar\bin\Debug\Dolar.exe
+C:\Users\paulo.santos\Desktop\Dolar\Dolar\bin\Debug\Dolar.pdb
+C:\Users\paulo.santos\Desktop\Dolar\Dolar\obj\Debug\Dolar.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\Desktop\Dolar\Dolar\obj\Debug\Dolar.exe
+C:\Users\paulo.santos\Desktop\Dolar\Dolar\obj\Debug\Dolar.pdb

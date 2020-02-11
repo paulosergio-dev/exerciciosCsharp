@@ -1,0 +1,9 @@
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\TreinamentoMXM\bin\Debug\TreinamentoMXM.exe.config
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\TreinamentoMXM\bin\Debug\TreinamentoMXM.exe
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\TreinamentoMXM\bin\Debug\TreinamentoMXM.pdb
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\TreinamentoMXM\obj\Debug\TreinamentoMXM.csprojResolveAssemblyReference.cache
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\TreinamentoMXM\obj\Debug\TreinamentoMXM.exe
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\TreinamentoMXM\obj\Debug\TreinamentoMXM.pdb
+P:\Treinamento\TreinamentoMXM\TreinamentoMXM\bin\Debug\TreinamentoMXM.exe.config
+P:\Treinamento\TreinamentoMXM\TreinamentoMXM\obj\Debug\TreinamentoMXM.exe
+P:\Treinamento\TreinamentoMXM\TreinamentoMXM\obj\Debug\TreinamentoMXM.pdb

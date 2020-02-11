@@ -1,0 +1,5 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\construtores aula 50\construtores aula 50\bin\Debug\construtores aula 50.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\construtores aula 50\construtores aula 50\bin\Debug\construtores aula 50.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\construtores aula 50\construtores aula 50\bin\Debug\construtores aula 50.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\construtores aula 50\construtores aula 50\obj\Debug\construtores aula 50.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\construtores aula 50\construtores aula 50\obj\Debug\construtores aula 50.pdb

@@ -1,0 +1,6 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao196\exercicioFixacao196\bin\Debug\exercicioFixacao196.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao196\exercicioFixacao196\bin\Debug\exercicioFixacao196.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao196\exercicioFixacao196\bin\Debug\exercicioFixacao196.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao196\exercicioFixacao196\obj\Debug\exercicioFixacao196.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao196\exercicioFixacao196\obj\Debug\exercicioFixacao196.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao196\exercicioFixacao196\obj\Debug\exercicioFixacao196.pdb

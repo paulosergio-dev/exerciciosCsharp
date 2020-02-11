@@ -1,0 +1,6 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerciciosaula78listas\exerciciosaula78listas\bin\Debug\exerciciosaula78listas.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerciciosaula78listas\exerciciosaula78listas\obj\Debug\exerciciosaula78listas.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerciciosaula78listas\exerciciosaula78listas\bin\Debug\exerciciosaula78listas.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerciciosaula78listas\exerciciosaula78listas\bin\Debug\exerciciosaula78listas.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerciciosaula78listas\exerciciosaula78listas\obj\Debug\exerciciosaula78listas.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerciciosaula78listas\exerciciosaula78listas\obj\Debug\exerciciosaula78listas.pdb

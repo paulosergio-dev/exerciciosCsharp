@@ -1,0 +1,6 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioDataAdriano15-0'\exercicioDataAdriano15-0'\bin\Debug\exercicioDataAdriano15-0'.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioDataAdriano15-0'\exercicioDataAdriano15-0'\bin\Debug\exercicioDataAdriano15-0'.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioDataAdriano15-0'\exercicioDataAdriano15-0'\bin\Debug\exercicioDataAdriano15-0'.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioDataAdriano15-0'\exercicioDataAdriano15-0'\obj\Debug\exercicioDataAdriano15-0'.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioDataAdriano15-0'\exercicioDataAdriano15-0'\obj\Debug\exercicioDataAdriano15-0'.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioDataAdriano15-0'\exercicioDataAdriano15-0'\obj\Debug\exercicioDataAdriano15-0'.pdb

@@ -1,0 +1,14 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\CriandoExcecoesPersonalizadas.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\CriandoExcecoesPersonalizadas.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\CriandoExcecoesPersonalizadas.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\CriandoExcecoesPersonalizadas.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\CriandoExcecoesPersonalizadas.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\CriandoExcecoesPersonalizadas.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\CriandoExcecoesPersonalizadas.pdb
+C:\Users\PaauLao\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\CriandoExcecoesPersonalizadas.csprojAssemblyReference.cache
+C:\Users\PaauLao\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\CriandoExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\PaauLao\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\CriandoExcecoesPersonalizadas.exe
+C:\Users\PaauLao\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\obj\Debug\CriandoExcecoesPersonalizadas.pdb
+C:\Users\PaauLao\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\CriandoExcecoesPersonalizadas.exe.config
+C:\Users\PaauLao\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\CriandoExcecoesPersonalizadas.exe
+C:\Users\PaauLao\OneDrive - MXM Sistemas\EXERCICIOS CURSO C#\CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas\bin\Debug\CriandoExcecoesPersonalizadas.pdb

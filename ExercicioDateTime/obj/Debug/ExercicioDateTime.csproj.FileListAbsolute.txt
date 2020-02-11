@@ -1,0 +1,15 @@
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\ExercicioDateTime\bin\Debug\ExercicioDateTime.exe.config
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\ExercicioDateTime\bin\Debug\ExercicioDateTime.exe
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\ExercicioDateTime\bin\Debug\ExercicioDateTime.pdb
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\ExercicioDateTime\obj\Debug\ExercicioDateTime.exe
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\ExercicioDateTime\obj\Debug\ExercicioDateTime.pdb
+C:\Users\adriano.chagas\Documents\Visual Studio 2015\Projects\TreinamentoMXM\ExercicioDateTime\obj\Debug\ExercicioDateTime.csprojResolveAssemblyReference.cache
+P:\Treinamento\TreinamentoMXM\ExercicioDateTime\bin\Debug\ExercicioDateTime.exe.config
+P:\Treinamento\TreinamentoMXM\ExercicioDateTime\obj\Debug\ExercicioDateTime.exe
+P:\Treinamento\TreinamentoMXM\ExercicioDateTime\obj\Debug\ExercicioDateTime.pdb
+P:\Treinamento\TreinamentoMXM\ExercicioDateTime\bin\Debug\ExercicioDateTime.exe
+P:\Treinamento\TreinamentoMXM\ExercicioDateTime\bin\Debug\ExercicioDateTime.pdb
+P:\Treinamento\TreinamentoMXM\ExercicioDateTime\obj\Debug\ExercicioDateTime.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\Desktop\ExercicioDateTime\bin\Debug\ExercicioDateTime.exe.config
+C:\Users\paulo.santos\Desktop\ExercicioDateTime\obj\Debug\ExercicioDateTime.exe
+C:\Users\paulo.santos\Desktop\ExercicioDateTime\obj\Debug\ExercicioDateTime.pdb

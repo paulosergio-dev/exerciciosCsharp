@@ -1,0 +1,5 @@
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\Exercicio\bin\Debug\Exercicio.exe.config
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\Exercicio\bin\Debug\Exercicio.exe
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\Exercicio\bin\Debug\Exercicio.pdb
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\Exercicio\obj\Debug\Exercicio.exe
+c:\users\adriano.chagas\documents\visual studio 2015\Projects\TreinamentoMXM\Exercicio\obj\Debug\Exercicio.pdb

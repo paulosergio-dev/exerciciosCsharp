@@ -1,0 +1,5 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\matrizes\matrizes\bin\Debug\matrizes.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\matrizes\matrizes\bin\Debug\matrizes.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\matrizes\matrizes\bin\Debug\matrizes.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\matrizes\matrizes\obj\Debug\matrizes.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\matrizes\matrizes\obj\Debug\matrizes.pdb

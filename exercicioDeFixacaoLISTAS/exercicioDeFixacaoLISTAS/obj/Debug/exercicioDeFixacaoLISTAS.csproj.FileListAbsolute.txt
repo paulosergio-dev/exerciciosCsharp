@@ -1,0 +1,6 @@
+c:\users\paulo.santos\documents\visual studio 2015\Projects\exercicioDeFixacaoLISTAS\exercicioDeFixacaoLISTAS\bin\Debug\exercicioDeFixacaoLISTAS.exe.config
+c:\users\paulo.santos\documents\visual studio 2015\Projects\exercicioDeFixacaoLISTAS\exercicioDeFixacaoLISTAS\obj\Debug\exercicioDeFixacaoLISTAS.csprojResolveAssemblyReference.cache
+c:\users\paulo.santos\documents\visual studio 2015\Projects\exercicioDeFixacaoLISTAS\exercicioDeFixacaoLISTAS\bin\Debug\exercicioDeFixacaoLISTAS.exe
+c:\users\paulo.santos\documents\visual studio 2015\Projects\exercicioDeFixacaoLISTAS\exercicioDeFixacaoLISTAS\bin\Debug\exercicioDeFixacaoLISTAS.pdb
+c:\users\paulo.santos\documents\visual studio 2015\Projects\exercicioDeFixacaoLISTAS\exercicioDeFixacaoLISTAS\obj\Debug\exercicioDeFixacaoLISTAS.exe
+c:\users\paulo.santos\documents\visual studio 2015\Projects\exercicioDeFixacaoLISTAS\exercicioDeFixacaoLISTAS\obj\Debug\exercicioDeFixacaoLISTAS.pdb

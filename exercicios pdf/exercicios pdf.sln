@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicios pdf", "exercicios pdf\exercicios pdf.csproj", "{0CBD969E-66DE-4390-A498-961EF8654FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CBD969E-66DE-4390-A498-961EF8654FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBD969E-66DE-4390-A498-961EF8654FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBD969E-66DE-4390-A498-961EF8654FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBD969E-66DE-4390-A498-961EF8654FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE71042F-EDF5-41FC-BC3B-71B4BA4C1348}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\Adriano exercicio\Adriano exercicio\bin\Debug\Adriano exercicio.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\Adriano exercicio\Adriano exercicio\bin\Debug\Adriano exercicio.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\Adriano exercicio\Adriano exercicio\bin\Debug\Adriano exercicio.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\Adriano exercicio\Adriano exercicio\obj\Debug\Adriano exercicio.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\Adriano exercicio\Adriano exercicio\obj\Debug\Adriano exercicio.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\Adriano exercicio\Adriano exercicio\obj\Debug\Adriano exercicio.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\Desktop\PAULO.SANTOS\branches\paulo.santos\ExercicioData\Adriano exercicio\bin\Debug\Adriano exercicio.exe.config
+C:\Users\paulo.santos\Desktop\PAULO.SANTOS\branches\paulo.santos\ExercicioData\Adriano exercicio\obj\Debug\Adriano exercicio.exe
+C:\Users\paulo.santos\Desktop\PAULO.SANTOS\branches\paulo.santos\ExercicioData\Adriano exercicio\obj\Debug\Adriano exercicio.pdb
+C:\Users\paulo.santos\Desktop\PAULO.SANTOS\branches\paulo.santos\ExercicioData\Adriano exercicio\bin\Debug\Adriano exercicio.exe
+C:\Users\paulo.santos\Desktop\PAULO.SANTOS\branches\paulo.santos\ExercicioData\Adriano exercicio\bin\Debug\Adriano exercicio.pdb
+C:\Users\paulo.santos\Desktop\PAULO.SANTOS\branches\paulo.santos\ExercicioData\Adriano exercicio\obj\Debug\Adriano exercicio.csprojResolveAssemblyReference.cache

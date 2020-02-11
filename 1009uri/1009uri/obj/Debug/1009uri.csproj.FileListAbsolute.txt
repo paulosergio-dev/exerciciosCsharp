@@ -1,0 +1,7 @@
+C:\Users\PaauLao\source\repos\1009uri\1009uri\obj\Debug\1009uri.csprojAssemblyReference.cache
+C:\Users\PaauLao\source\repos\1009uri\1009uri\obj\Debug\1009uri.csproj.CoreCompileInputs.cache
+C:\Users\PaauLao\source\repos\1009uri\1009uri\bin\Debug\1009uri.exe.config
+C:\Users\PaauLao\source\repos\1009uri\1009uri\bin\Debug\1009uri.exe
+C:\Users\PaauLao\source\repos\1009uri\1009uri\bin\Debug\1009uri.pdb
+C:\Users\PaauLao\source\repos\1009uri\1009uri\obj\Debug\1009uri.exe
+C:\Users\PaauLao\source\repos\1009uri\1009uri\obj\Debug\1009uri.pdb

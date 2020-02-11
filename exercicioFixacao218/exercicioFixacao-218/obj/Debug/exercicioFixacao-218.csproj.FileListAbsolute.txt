@@ -1,0 +1,9 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao-218\exercicioFixacao-218\bin\Debug\exercicioFixacao-218.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao-218\exercicioFixacao-218\bin\Debug\exercicioFixacao-218.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao-218\exercicioFixacao-218\bin\Debug\exercicioFixacao-218.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao-218\exercicioFixacao-218\obj\Debug\exercicioFixacao-218.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao-218\exercicioFixacao-218\obj\Debug\exercicioFixacao-218.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioFixacao-218\exercicioFixacao-218\obj\Debug\exercicioFixacao-218.pdb
+C:\Users\paulo.santos\Desktop\exercicioFixacao-218\exercicioFixacao-218\bin\Debug\exercicioFixacao-218.exe.config
+C:\Users\paulo.santos\Desktop\exercicioFixacao-218\exercicioFixacao-218\obj\Debug\exercicioFixacao-218.exe
+C:\Users\paulo.santos\Desktop\exercicioFixacao-218\exercicioFixacao-218\obj\Debug\exercicioFixacao-218.pdb

@@ -1,0 +1,6 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication17\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication17\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb

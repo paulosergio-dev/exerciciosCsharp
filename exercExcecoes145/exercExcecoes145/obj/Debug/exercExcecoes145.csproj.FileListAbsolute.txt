@@ -1,0 +1,17 @@
+C:\Users\PaauLao\source\repos\exercExcecoes145\exercExcecoes145\bin\Debug\exercExcecoes145.exe.config
+C:\Users\PaauLao\source\repos\exercExcecoes145\exercExcecoes145\bin\Debug\exercExcecoes145.exe
+C:\Users\PaauLao\source\repos\exercExcecoes145\exercExcecoes145\bin\Debug\exercExcecoes145.pdb
+C:\Users\PaauLao\source\repos\exercExcecoes145\exercExcecoes145\obj\Debug\exercExcecoes145.csprojAssemblyReference.cache
+C:\Users\PaauLao\source\repos\exercExcecoes145\exercExcecoes145\obj\Debug\exercExcecoes145.csproj.CoreCompileInputs.cache
+C:\Users\PaauLao\source\repos\exercExcecoes145\exercExcecoes145\obj\Debug\exercExcecoes145.exe
+C:\Users\PaauLao\source\repos\exercExcecoes145\exercExcecoes145\obj\Debug\exercExcecoes145.pdb
+C:\Users\PaauLao\Desktop\exercExcecoes145\exercExcecoes145\bin\Debug\exercExcecoes145.exe.config
+C:\Users\PaauLao\Desktop\exercExcecoes145\exercExcecoes145\bin\Debug\exercExcecoes145.exe
+C:\Users\PaauLao\Desktop\exercExcecoes145\exercExcecoes145\bin\Debug\exercExcecoes145.pdb
+C:\Users\PaauLao\Desktop\exercExcecoes145\exercExcecoes145\obj\Debug\exercExcecoes145.csprojAssemblyReference.cache
+C:\Users\PaauLao\Desktop\exercExcecoes145\exercExcecoes145\obj\Debug\exercExcecoes145.csproj.CoreCompileInputs.cache
+C:\Users\PaauLao\Desktop\exercExcecoes145\exercExcecoes145\obj\Debug\exercExcecoes145.exe
+C:\Users\PaauLao\Desktop\exercExcecoes145\exercExcecoes145\obj\Debug\exercExcecoes145.pdb
+C:\Users\paulo.santos\Desktop\exercExcecoes145\exercExcecoes145\bin\Debug\exercExcecoes145.exe.config
+C:\Users\paulo.santos\Desktop\exercExcecoes145\exercExcecoes145\obj\Debug\exercExcecoes145.exe
+C:\Users\paulo.santos\Desktop\exercExcecoes145\exercExcecoes145\obj\Debug\exercExcecoes145.pdb

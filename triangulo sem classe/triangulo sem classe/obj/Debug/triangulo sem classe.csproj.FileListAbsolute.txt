@@ -1,0 +1,6 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo sem classe\triangulo sem classe\bin\Debug\triangulo sem classe.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo sem classe\triangulo sem classe\obj\Debug\triangulo sem classe.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo sem classe\triangulo sem classe\bin\Debug\triangulo sem classe.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo sem classe\triangulo sem classe\bin\Debug\triangulo sem classe.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo sem classe\triangulo sem classe\obj\Debug\triangulo sem classe.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo sem classe\triangulo sem classe\obj\Debug\triangulo sem classe.pdb

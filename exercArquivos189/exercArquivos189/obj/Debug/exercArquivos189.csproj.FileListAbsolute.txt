@@ -1,0 +1,13 @@
+C:\Users\PaauLao\source\repos\exercArquivos189\exercArquivos189\bin\Debug\exercArquivos189.exe.config
+C:\Users\PaauLao\source\repos\exercArquivos189\exercArquivos189\bin\Debug\exercArquivos189.exe
+C:\Users\PaauLao\source\repos\exercArquivos189\exercArquivos189\bin\Debug\exercArquivos189.pdb
+C:\Users\PaauLao\source\repos\exercArquivos189\exercArquivos189\obj\Debug\exercArquivos189.csprojAssemblyReference.cache
+C:\Users\PaauLao\source\repos\exercArquivos189\exercArquivos189\obj\Debug\exercArquivos189.csproj.CoreCompileInputs.cache
+C:\Users\PaauLao\source\repos\exercArquivos189\exercArquivos189\obj\Debug\exercArquivos189.exe
+C:\Users\PaauLao\source\repos\exercArquivos189\exercArquivos189\obj\Debug\exercArquivos189.pdb
+C:\Users\paulo.santos\Desktop\exercArquivos189\exercArquivos189\bin\Debug\exercArquivos189.exe.config
+C:\Users\paulo.santos\Desktop\exercArquivos189\exercArquivos189\obj\Debug\exercArquivos189.exe
+C:\Users\paulo.santos\Desktop\exercArquivos189\exercArquivos189\obj\Debug\exercArquivos189.pdb
+C:\Users\paulo.santos\Desktop\exercArquivos189\exercArquivos189\obj\Debug\exercArquivos189.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\Desktop\exercArquivos189\exercArquivos189\bin\Debug\exercArquivos189.exe
+C:\Users\paulo.santos\Desktop\exercArquivos189\exercArquivos189\bin\Debug\exercArquivos189.pdb

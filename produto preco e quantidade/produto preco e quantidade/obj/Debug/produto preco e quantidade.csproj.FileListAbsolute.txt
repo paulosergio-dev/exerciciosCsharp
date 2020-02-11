@@ -1,0 +1,6 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\produto preco e quantidade\produto preco e quantidade\bin\Debug\produto preco e quantidade.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\produto preco e quantidade\produto preco e quantidade\bin\Debug\produto preco e quantidade.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\produto preco e quantidade\produto preco e quantidade\bin\Debug\produto preco e quantidade.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\produto preco e quantidade\produto preco e quantidade\obj\Debug\produto preco e quantidade.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\produto preco e quantidade\produto preco e quantidade\obj\Debug\produto preco e quantidade.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\produto preco e quantidade\produto preco e quantidade\obj\Debug\produto preco e quantidade.pdb

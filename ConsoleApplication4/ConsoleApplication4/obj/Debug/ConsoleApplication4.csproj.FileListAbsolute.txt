@@ -1,0 +1,5 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

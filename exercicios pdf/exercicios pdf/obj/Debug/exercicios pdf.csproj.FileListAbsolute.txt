@@ -1,0 +1,2 @@
+C:\Users\PaauLao\source\repos\exercicios pdf\exercicios pdf\obj\Debug\exercicios pdf.csprojAssemblyReference.cache
+C:\Users\PaauLao\source\repos\exercicios pdf\exercicios pdf\obj\Debug\exercicios pdf.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+c:\users\paulo.santos\documents\visual studio 2015\Projects\aula3exec1\aula3exec1\bin\Debug\aula3exec1.exe.config
+c:\users\paulo.santos\documents\visual studio 2015\Projects\aula3exec1\aula3exec1\bin\Debug\aula3exec1.exe
+c:\users\paulo.santos\documents\visual studio 2015\Projects\aula3exec1\aula3exec1\bin\Debug\aula3exec1.pdb
+c:\users\paulo.santos\documents\visual studio 2015\Projects\aula3exec1\aula3exec1\obj\Debug\aula3exec1.csprojResolveAssemblyReference.cache
+c:\users\paulo.santos\documents\visual studio 2015\Projects\aula3exec1\aula3exec1\obj\Debug\aula3exec1.exe
+c:\users\paulo.santos\documents\visual studio 2015\Projects\aula3exec1\aula3exec1\obj\Debug\aula3exec1.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO CSharp\aula3exec1\aula3exec1\bin\Debug\aula3exec1.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO CSharp\aula3exec1\aula3exec1\bin\Debug\aula3exec1.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO CSharp\aula3exec1\aula3exec1\bin\Debug\aula3exec1.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO CSharp\aula3exec1\aula3exec1\obj\Debug\aula3exec1.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO CSharp\aula3exec1\aula3exec1\obj\Debug\aula3exec1.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\EXERCICIOS CURSO CSharp\aula3exec1\aula3exec1\obj\Debug\aula3exec1.pdb

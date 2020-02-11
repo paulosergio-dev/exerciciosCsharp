@@ -1,0 +1,7 @@
+C:\Users\PaauLao\source\repos\exercicio 42\exercicio 42\bin\Debug\exercicio 42.exe.config
+C:\Users\PaauLao\source\repos\exercicio 42\exercicio 42\bin\Debug\exercicio 42.exe
+C:\Users\PaauLao\source\repos\exercicio 42\exercicio 42\bin\Debug\exercicio 42.pdb
+C:\Users\PaauLao\source\repos\exercicio 42\exercicio 42\obj\Debug\exercicio 42.csprojAssemblyReference.cache
+C:\Users\PaauLao\source\repos\exercicio 42\exercicio 42\obj\Debug\exercicio 42.csproj.CoreCompileInputs.cache
+C:\Users\PaauLao\source\repos\exercicio 42\exercicio 42\obj\Debug\exercicio 42.exe
+C:\Users\PaauLao\source\repos\exercicio 42\exercicio 42\obj\Debug\exercicio 42.pdb

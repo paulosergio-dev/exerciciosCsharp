@@ -1,0 +1,6 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo com classe triangulo\triangulo com classe triangulo\bin\Debug\triangulo com classe triangulo.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo com classe triangulo\triangulo com classe triangulo\obj\Debug\triangulo com classe triangulo.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo com classe triangulo\triangulo com classe triangulo\bin\Debug\triangulo com classe triangulo.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo com classe triangulo\triangulo com classe triangulo\bin\Debug\triangulo com classe triangulo.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo com classe triangulo\triangulo com classe triangulo\obj\Debug\triangulo com classe triangulo.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\triangulo com classe triangulo\triangulo com classe triangulo\obj\Debug\triangulo com classe triangulo.pdb

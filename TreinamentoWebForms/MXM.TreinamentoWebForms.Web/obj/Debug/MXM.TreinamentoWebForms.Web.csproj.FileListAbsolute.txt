@@ -1,0 +1,1 @@
+C:\SVNTreinamento\fontes\tk\TreinamentoWebForms\MXM.TreinamentoWebForms.Web\bin\Debug\MXM.TreinamentoWebForms.Web.exe.config

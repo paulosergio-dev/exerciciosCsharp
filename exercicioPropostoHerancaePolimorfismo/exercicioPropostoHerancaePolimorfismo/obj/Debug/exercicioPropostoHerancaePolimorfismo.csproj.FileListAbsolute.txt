@@ -1,0 +1,2 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioPropostoHerancaePolimorfismo\exercicioPropostoHerancaePolimorfismo\bin\Debug\exercicioPropostoHerancaePolimorfismo.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exercicioPropostoHerancaePolimorfismo\exercicioPropostoHerancaePolimorfismo\obj\Debug\exercicioPropostoHerancaePolimorfismo.csprojResolveAssemblyReference.cache

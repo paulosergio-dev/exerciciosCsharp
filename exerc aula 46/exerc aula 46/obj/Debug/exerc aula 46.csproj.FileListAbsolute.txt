@@ -1,0 +1,6 @@
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerc aula 46\exerc aula 46\bin\Debug\exerc aula 46.exe.config
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerc aula 46\exerc aula 46\obj\Debug\exerc aula 46.csprojResolveAssemblyReference.cache
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerc aula 46\exerc aula 46\bin\Debug\exerc aula 46.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerc aula 46\exerc aula 46\bin\Debug\exerc aula 46.pdb
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerc aula 46\exerc aula 46\obj\Debug\exerc aula 46.exe
+C:\Users\paulo.santos\OneDrive - MXM Sistemas\exerc aula 46\exerc aula 46\obj\Debug\exerc aula 46.pdb
